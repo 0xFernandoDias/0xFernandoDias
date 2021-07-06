@@ -3,13 +3,11 @@
 - 📅 21 years old
 - 📍 Sao Paulo 🇧🇷
 
-<br />
 
 ### Connect with me:
 
 [<img align="left" alt="nand0diaz | LinkedIn" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><br />][linkedin]
 
-<br />
 
 ## I'm an enthusiast and programming lover! 💪🏽
 
@@ -19,7 +17,6 @@ I'm looking for a cool job to get:
 - 🏋️ Challenges
 - 👥 Great network
 
-<br />
 
 ## 📚 I'm currently studying:
 
@@ -27,13 +24,11 @@ I'm looking for a cool job to get:
 - 📱 Mobile development
 - 🚀 MERN-stack
 
-<br />
 
 ### Stats:
 
 [![Nand0diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz&count_private=true&show_icons=true&theme=radical)](https://github.com/nand0diaz/github-readme-stats)
 
-<br />
 
 ### Languages and Tools:
 
