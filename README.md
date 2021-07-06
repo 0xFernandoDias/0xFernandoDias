@@ -49,7 +49,6 @@ I'm looking for a cool job to get:
 <img align="left" alt="Linux" width="48px" height="46px" src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png"/>
 
 <br />
-<br />
 
 ## Stats
 
