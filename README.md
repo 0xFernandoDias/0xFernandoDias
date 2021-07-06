@@ -1,4 +1,4 @@
-### Hi there, I'm Fernando Dias - aka [nand0diaz] 👋
+### Hi there, I'm Fernando Dias 👋
 
 - 📅 21 years old
 - 📍 Sao Paulo
