@@ -19,6 +19,12 @@ I'm looking for a cool job to get:
 - 📱 Mobile development
 - 🚀 MERN-stack
 
+<br />
+
+## Stats
+
+[![Nand0diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz)](https://github.com/nand0diaz/github-readme-stats)
+
 
 ### Connect with me:
 
@@ -47,13 +53,6 @@ I'm looking for a cool job to get:
 <img align="left" alt="Figma" width="48px" height="46px" src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png"/>
 <img align="left" alt="Photoshop" width="48px" height="46px" src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png"/>
 <img align="left" alt="Linux" width="48px" height="46px" src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png"/>
-
-<br />
-
-## Stats
-
-[![Nand0diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz)](https://github.com/nand0diaz/github-readme-stats)
-
 
 
 [linkedin]: https://www.linkedin.com/in/fernando-d-6b1115179/
