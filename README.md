@@ -3,7 +3,7 @@ I'm an enthusiast and programming lover! 💪🏽
 
 ### Connect with me:
 
-[<img align="left" alt="nand0diaz | LinkedIn" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><br />][linkedin]
+[<img align="left" alt="nand0diaz | LinkedIn" width="29px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /><br />][linkedin]
 
 
 ## 📚 I'm currently studying:
