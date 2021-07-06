@@ -10,7 +10,7 @@ I'm an enthusiast and programming lover! 💪🏽
 
 - ⚛️ Front-end development
 - 📱 Mobile development
-- 🚀 MERN-stack
+- 🚀 MERN stack
 
 
 ### Stats:
