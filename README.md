@@ -51,7 +51,7 @@ I'm looking for a cool job to get:
 <br />
 <br />
 
-##
+## Stats
 
 [![Nand0diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz)](https://github.com/nand0diaz/github-readme-stats)
 
