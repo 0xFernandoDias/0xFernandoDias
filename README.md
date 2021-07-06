@@ -26,12 +26,12 @@ I'm looking for a cool job to get:
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="56px" height="56px" src="https://miro.medium.com/max/1110/1*S-nV902O1yWwpFbxn0P_xA.png"/>]
-[<img align="left" alt="React" width="56px" height="56px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png"/>]
-[<img align="left" alt="Styled-Components" width="56px" src="https://styled-components.com/atom.png"/>]
-[<img align="left" alt="Bootstrap" width="56px" height="56px" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png"/>]
-[<img align="left" alt="Git" width="56px" height="56px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"/>]
-[<img align="left" alt="VSCode" width="56px" height="56px" src="https://northcreation.agency/assets/Uploads/VSCode__FitWzEwMDAsMTAwMF0.png"/>]
+<img align="left" alt="JavaScript" width="56px" height="56px" src="https://miro.medium.com/max/1110/1*S-nV902O1yWwpFbxn0P_xA.png"/>
+<img align="left" alt="React" width="56px" height="56px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png"/>
+<img align="left" alt="Styled-Components" width="56px" src="https://styled-components.com/atom.png"/>
+<img align="left" alt="Bootstrap" width="56px" height="56px" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png"/>
+<img align="left" alt="Git" width="56px" height="56px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"/>
+<img align="left" alt="VSCode" width="56px" height="56px" src="https://northcreation.agency/assets/Uploads/VSCode__FitWzEwMDAsMTAwMF0.png"/>
 
 
 [<img align="left" alt="TypeScript" width="56px" height="56px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"/>]
