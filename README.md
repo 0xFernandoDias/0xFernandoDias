@@ -1,7 +1,7 @@
 ### Hi there, I'm Fernando Dias 👋
 
 - 📅 21 years old
-- 📍 Sao Paulo
+- 📍 Sao Paulo 🇧🇷
 
 ## I'm an enthusiast and programming lover! 💪🏽
 
