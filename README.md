@@ -51,6 +51,8 @@ I'm looking for a cool job to get:
 <br />
 <br />
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
