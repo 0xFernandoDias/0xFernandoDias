@@ -3,6 +3,7 @@
 - 📅 21 years old
 - 📍 Sao Paulo 🇧🇷
 
+
 ## I'm an enthusiast and programming lover! 💪🏽
 
 I'm looking for a cool job to get:
@@ -10,6 +11,7 @@ I'm looking for a cool job to get:
 - 👨🏽‍💻 Experience
 - 🏋️ Challenges
 - 👥 Great network
+
 
 ## 📚 I'm currently studying:
 
@@ -49,5 +51,11 @@ I'm looking for a cool job to get:
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="nand0diaz's GitHub Stats" src="https://github-readme-stats.nand0diaz.vercel.app/api?username=nand0diaz&show_icons=true&hide_border=true" />
+
+</details>
 
 [linkedin]: https://www.linkedin.com/in/fernando-d-6b1115179/
