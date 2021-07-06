@@ -1,21 +1,12 @@
 ### Hi there, I'm Fernando Dias 👋
+### I'm an enthusiast and programming lover! 💪🏽
 
 - 📅 21 years old
 - 📍 Sao Paulo 🇧🇷
 
-
 ### Connect with me:
 
 [<img align="left" alt="nand0diaz | LinkedIn" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><br />][linkedin]
-
-
-## I'm an enthusiast and programming lover! 💪🏽
-
-I'm looking for a cool job to get:
-- 🧠 Knowledge
-- 👨🏽‍💻 Experience
-- 🏋️ Challenges
-- 👥 Great network
 
 
 ## 📚 I'm currently studying:
@@ -30,7 +21,7 @@ I'm looking for a cool job to get:
 [![Nand0diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz&count_private=true&show_icons=true&theme=radical)](https://github.com/nand0diaz/github-readme-stats)
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="JavaScript" width="29px" height="29px" src="https://miro.medium.com/max/1110/1*S-nV902O1yWwpFbxn0P_xA.png"/>
 <img align="left" alt="React" width="29px" height="29px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png"/>
