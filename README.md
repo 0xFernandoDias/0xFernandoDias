@@ -34,6 +34,7 @@ I'm looking for a cool job to get:
 <img align="left" alt="VSCode" width="56px" height="56px" src="https://northcreation.agency/assets/Uploads/VSCode__FitWzEwMDAsMTAwMF0.png"/>
 
 <br />
+<br />
 
 <img align="left" alt="TypeScript" width="56px" height="56px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"/>
 <img align="left" alt="ReactNative" width="56px" height="56px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png"/>
@@ -49,13 +50,5 @@ I'm looking for a cool job to get:
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="nand0diaz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nand0diaz&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/fernando-d-6b1115179/
