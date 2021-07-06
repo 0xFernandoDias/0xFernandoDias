@@ -5,6 +5,12 @@
 
 <br />
 
+### Connect with me:
+
+[<img align="left" alt="nand0diaz | LinkedIn" width="39px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
 ## I'm an enthusiast and programming lover! 💪🏽
 
 I'm looking for a cool job to get:
@@ -26,12 +32,6 @@ I'm looking for a cool job to get:
 ## Stats
 
 [![Nand0diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz)](https://github.com/nand0diaz/github-readme-stats)
-
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="nand0diaz | LinkedIn" width="39px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
