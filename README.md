@@ -53,7 +53,8 @@ I'm looking for a cool job to get:
 
 ---
 
-<img align="left" alt="nand0diaz's GitHub Stats" src="https://github-readme-stats.nand0diaz.vercel.app/api?username=nand0diaz&show_icons=true&hide_border=true" />
+[![Nand0diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz)](https://github.com/nand0diaz/github-readme-stats)
+
 
 
 [linkedin]: https://www.linkedin.com/in/fernando-d-6b1115179/
