@@ -20,8 +20,9 @@ I'm looking for a cool job to get:
 
 ### Connect with me:
 
-[<img align="left" alt="nand0diaz | LinkedIn" width="49px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nand0diaz | LinkedIn" width="39px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools:
