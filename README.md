@@ -36,6 +36,8 @@ I'm an enthusiast and programming lover! 💪🏽
 <img align="left" alt="MongoDB" width="29px" height="29px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"/>
 <img align="left" alt="Figma" width="29px" height="29px" src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png"/>
 
+<br/>
+
 ## Stats:
 
 [![Nand0diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz&count_private=true&show_icons=true&theme=radical)](https://github.com/nand0diaz/github-readme-stats)
