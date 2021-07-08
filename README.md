@@ -23,6 +23,8 @@ I'm an enthusiast and programming lover! 💪🏽
 <img align="left" alt="Photoshop" width="29px" height="29px" src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png"/>
 <img align="left" alt="Linux" width="29px" height="29px" src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png"/>
 
+<br/>
+
 ### I'm studying:
 
 <img align="left" alt="TypeScript" width="29px" height="29px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"/>
