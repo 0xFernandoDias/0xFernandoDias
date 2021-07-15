@@ -1,4 +1,4 @@
-### Hi there, I'm Fernando Dias 👋
+### Wassup there, I'm Fernando Dias 👋
 I'm an enthusiast and programming lover! 💪🏽
 
 ### Connect with me:
