@@ -44,7 +44,7 @@ I'm an enthusiast and programming lover! 💪🏽
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nand0diaz&layout=compact&theme=dracula)](https://github.com/nand0diaz/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nand0diaz)](https://github.com/nand0diaz/github-readme-stats)
+[![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nand0diaz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/fernando-d-6b1115179/
