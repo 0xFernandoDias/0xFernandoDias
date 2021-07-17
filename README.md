@@ -3,7 +3,7 @@ I'm an enthusiast and programming lover! 💪🏽
 
 ### Connect with me:
 
-[<img align="left" alt="nand0diaz | LinkedIn" width="29px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" /><br />][linkedin]
+[<img align="left" alt="nand0diaz | LinkedIn" width="59px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" /><br />][linkedin]
 
 
 ## 📚 I'm currently studying:
@@ -40,11 +40,9 @@ I'm an enthusiast and programming lover! 💪🏽
 
 ## Stats:
 
-[![Nand0diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz&count_private=true&show_icons=true&theme=dracula)](https://github.com/nand0diaz/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nand0diaz&count_private=true&show_icons=true&theme=dracula)](https://github.com/nand0diaz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nand0diaz&layout=compact&theme=dracula)](https://github.com/nand0diaz/github-readme-stats)
-
-[![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nand0diaz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/fernando-d-6b1115179/
