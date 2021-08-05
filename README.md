@@ -6,7 +6,7 @@ I'm an enthusiast and programming lover! 💪🏽
 [<img align="left" alt="nand0diaz | LinkedIn" width="89px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" /><br />][linkedin]
 
 
-## 📚 I'm currently studying:
+## 📚 I'm currently doing:
 
 - ⚛️ Front-end development
 - 📱 Mobile development
