@@ -25,7 +25,7 @@ I'm an enthusiast and programming lover! 💪🏽
 
 <br/>
 
-### I'd love to talk about:
+### I'm improving:
 
 <img align="left" alt="TypeScript" width="29px" height="29px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"/>
 <img align="left" alt="ReactNative" width="29px" height="29px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png"/>
