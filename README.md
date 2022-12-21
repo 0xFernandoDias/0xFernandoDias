@@ -12,6 +12,4 @@ I am also a design enthusiast and I think that no app should be created without 
 
 Today some of my goals are: finish my project and use it as a base to create content for Youtube, share knowledge with the Svelte + Moralis + Lens community and work in a cool company that is looking for the same thing as me.
 
-Translated with www.DeepL.com/Translator (free version)
-
 [linkedin]: https://www.linkedin.com/in/fernando-d-6b1115179/
