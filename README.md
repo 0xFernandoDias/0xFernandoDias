@@ -16,3 +16,7 @@ Linkedin: https://www.linkedin.com/in/0xfernandodias/<br/>
 Github: https://github.com/0xFernandoDias<br/>
 Discord: 799471641913589781<br/>
 Upwork: https://www.upwork.com/freelancers/~019898a8d588c45628<br/>
+
+## Github statistics:
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xFernandoDias&count_private=true&show_icons=true&theme=dracula)](https://github.com/nand0diaz/github-readme-stats)
