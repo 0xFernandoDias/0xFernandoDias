@@ -1,4 +1,4 @@
-My name is Fernando Dias, I'm Brazilian, married, Christian and currently living in São Paulo capital.
+My name is Fernando Dias and I live in São Paulo capital.
 
 I'm a front-end programmer and I'm migrating to fullstack web3 development
 Besides enjoying programming a lot, I like conservative principles so this matches my passion between programming and blockchain.
