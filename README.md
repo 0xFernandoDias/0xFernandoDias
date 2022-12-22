@@ -3,7 +3,7 @@ Hello doing good? My name is Fernando Dias and I live in São Paulo capital.
 I'm a front-end programmer and I'm migrating to fullstack web3 development
 Besides enjoying programming a lot, I like conservative principles so this matches my passion between programming and blockchain.
 
-What makes my eyes light up is the enhancement of the developer experience, I believe that a developer happy with his stack results in faster delivery of features and higher quality, so my favorite stack is composed of the following technologies: Javascript, Typescript, Svelte, Sveltekit, Vite, Tailwindcss, Windicss, Histoire, Cypress + Moralis, Solidity, Lens, and The Graph.
+What makes my eyes light up is the enhancement of the developer experience, I believe that a developer happy with his stack results in faster delivery of features and higher quality, so my favorite stack is composed of the following technologies: Javascript, Typescript, Svelte, Sveltekit, Vite, Tailwindcss, Windicss, Histoire, Cypress + Moralis, Solidity, Lens, and The Graph. MongoDB, Redis.
 
 I am currently developing a web3 app.
 
