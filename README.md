@@ -12,6 +12,7 @@ I am also a design enthusiast and I think that no app should be created without 
 
 Today some of my goals are: finish my project and use it as a base to create content for Youtube, share knowledge with the Svelte + Moralis + Lens community and work in a cool company that is looking for the same thing as me.
 
+Lens: @cryptocard.lens<br/>
 Linkedin: https://www.linkedin.com/in/0xfernandodias/<br/>
 Github: https://github.com/0xFernandoDias<br/>
 Discord: 799471641913589781<br/>
