@@ -26,10 +26,13 @@ Experimental projects on blockchain:
 - [Sign Message](https://github.com/0xFernandoDias/sign-message)
 <br/> https://sign-message.vercel.app/
 
+- [Simple Counter Dapp](https://github.com/0xFernandoDias/simple-counter-dapp)
+<br/> https://mycounterapp-delta.vercel.app/
+
 - [Buy Me A Coffe](https://github.com/0xFernandoDias/BuyMeACoffe)
 <br/> https://buy-me-a-coffe-two.vercel.app/
 
-Today some of my goals are develop a dapp MVP built on top of Lens protocol and an NFTs e-ccommerce with Shopify and Thirdweb and, use them as to create content for Youtube, and work in a cool company that is looking for the same thing as me.
+Today some of my goals are develop a dapp MVP built on top of Lens protocol and an NFTs e-ccommerce with Shopify and Thirdweb and, use them to create content for Youtube, and work in a cool company that is looking for the same thing as me.
 
 Lens: @crypto.card <br/>
 [Linkedin](https://www.linkedin.com/in/0xfernandodias/) <br/>
