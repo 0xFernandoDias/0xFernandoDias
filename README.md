@@ -1,4 +1,4 @@
-Front-end developer with 2+ years who migrated to fullstack web3 development.
+2+ years front end developer who migrated to fullstack web3 development.
 
 I'm open to work, feel free to text me.
 
