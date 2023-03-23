@@ -29,7 +29,7 @@ Experimental projects on blockchain:
 - [Buy Me A Coffe](https://github.com/0xFernandoDias/BuyMeACoffe)
 <br/> https://buy-me-a-coffe-two.vercel.app/
 
-Today some of my goals are develop a dapp MVP built on top of Lens protocol and as NFTs Ecommerce with Shopify and Thirdweb and, use them as to create content for Youtube, and work in a cool company that is looking for the same thing as me.
+Today some of my goals are develop a dapp MVP built on top of Lens protocol and an NFTs e-ccommerce with Shopify and Thirdweb and, use them as to create content for Youtube, and work in a cool company that is looking for the same thing as me.
 
 Lens: @crypto.card <br/>
 [Linkedin](https://www.linkedin.com/in/0xfernandodias/) <br/>
