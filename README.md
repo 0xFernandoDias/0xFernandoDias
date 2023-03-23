@@ -4,7 +4,7 @@ I'm open to work, feel free to text me.
 
 Besides enjoying programming a lot, I like the freedom principles so this matches my passion between programming and blockchain and their culture and lifestyle.
 
-My stack is composed of the following technologies:  Typescript, React, Next, Svelte, Sveltekit, Vite, Thirdweb, SDKs, Alchemy, Moralis, Hardhat, Wagmi, Solidity (smart contracts), IPFS, Lens Protocol, Tanstack Query, GraphQL, etc.
+My stack is composed of the following technologies: Typescript, React, Next, Svelte, Sveltekit, Vite, Thirdweb, SDKs, Alchemy, Moralis, Hardhat, Wagmi, Solidity (smart contracts), IPFS, Lens Protocol, Tanstack Query, GraphQL, etc.
 
 Experimental projects on blockchain:
 
@@ -29,7 +29,7 @@ Experimental projects on blockchain:
 - [Buy Me A Coffe](https://github.com/0xFernandoDias/BuyMeACoffe)
 <br/> https://buy-me-a-coffe-two.vercel.app/
 
-Today some of my goals are develop the MVP of a dapp built on top of Lens protocol and as NFTs Ecommerce with Shopify and Thirdweb and, use them as to create content for Youtube, and work in a cool company that is looking for the same thing as me.
+Today some of my goals are develop a dapp MVP built on top of Lens protocol and as NFTs Ecommerce with Shopify and Thirdweb and, use them as to create content for Youtube, and work in a cool company that is looking for the same thing as me.
 
 Lens: @crypto.card <br/>
 [Linkedin](https://www.linkedin.com/in/0xfernandodias/) <br/>
