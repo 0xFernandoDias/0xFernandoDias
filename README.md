@@ -1,7 +1,7 @@
 2+ years front end developer who migrated to fullstack web3 development.
 
-I worked for 2 companies full-time and did some freelance work as a front-end developer, D3, a digital products agency where I developed applications together with the teams and where I worked for 2 years and worked on 4 projects.
- The second was Dot, where I supported the front of an educational platform.
+I worked for 2 companies and did some freelances as a front-end developer, D3, a digital products agency where I developed applications together with the teams and worked worked on 4 projects.
+The second was Dot, where I supported the front of an educational platform.
 
 Besides enjoying programming a lot, I like the freedom principles so this matches my passion between programming and blockchain and their culture and lifestyle.
 
