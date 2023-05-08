@@ -9,8 +9,8 @@ My stack is composed of the following technologies: Typescript, React, Next, Sve
 
 Experimental projects on blockchain:
 
-- [Metro House](https://github.com/0xFernandoDias/metro-house)
-- The project is a decentralized web3 social network built on top of the Lens Protocol and running on the Polygon network from Blockchain.
+- [Metro House](https://github.com/0xFernandoDias/metro-house)<br/>
+The project is a decentralized web3 social network built on top of the Lens Protocol and running on the Polygon network from Blockchain.
 <br/> https://metro-house.vercel.app/
 
 - [Crowdfunding](https://github.com/0xFernandoDias/Crowdfunding)
