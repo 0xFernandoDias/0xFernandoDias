@@ -1,3 +1,18 @@
+Front-end Developer
+
+Tech Stack:
+JavaScript, Typescript, React, Next, Chakra UI, Material UI, Tailwindcss, Storybook, Cypress, GraphQL, Docker, Nginx, Vite, React Query, GraphQL, ESLint, Prettier, Figma, Jest, Strapi, Vercel
+
+Languages:
+- Portuguese and English
+
+Certificates:
+- Técnico em Informática – Senac
+- NestJS Fundamentals
+- JavaScript Data Structures & Algorithms + LEETCODE Exercises
+- Functional Programming in JavaScript: A Practical Approach
+- JavaScript Infrastructure: CLI, NPM, Babel, and Webpack
+
 Experimental project on blockchain:
 
 - [Metro House](https://github.com/0xFernandoDias/metro-house)<br/>
