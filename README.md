@@ -1,23 +1,15 @@
-Front-end Developer
+How's it goin? I'm Fernando Dias, a Front-end Developer.
 
-Tech Stack:
-JavaScript, Typescript, React, Next, Chakra UI, Material UI, Tailwindcss, Storybook, Cypress, GraphQL, Docker, Nginx, Vite, React Query, GraphQL, ESLint, Prettier, Figma, Jest, Strapi, Vercel
+Currently, I'm with JR Studio, working on cool projects like JR Studio Gamehub and JR Studio Roots. Previously, I've contributed to D3's projects like D3 MFEs Lib, Zag web admin, D3 landing website, and Comgas sales website. I've also collaborated with Dot Group on StudionMX.
+Aside from my main roles, I take on freelance projects on Upwork.
 
-Languages:
-- Portuguese and English
+My tech stack includes JavaScript, Typescript, React, Next, Tailwindcss, and more.
 
-Certificates:
-- Técnico em Informática – Senac
-- NestJS Fundamentals
-- JavaScript Data Structures & Algorithms + LEETCODE Exercises
-- Functional Programming in JavaScript: A Practical Approach
-- JavaScript Infrastructure: CLI, NPM, Babel, and Webpack
+I hold certificates in Técnico em Informática, NestJS Fundamentals, JavaScript Data Structures & Algorithms, and Functional Programming in JavaScript.
 
-Experimental project on blockchain:
+Fluent in Portuguese and English, I'm open to new challenges. Connect with me on LinkedIn or check out my GitHub. Explore my work, like the Metro House Project, or watch a YouTube video.
 
-- [Metro House](https://github.com/0xFernandoDias/metro-house)<br/>
-The project is a decentralized web3 social network built on top of the Lens Protocol and running on the Polygon network from Blockchain.
-<br/> https://metro-house.vercel.app/
+Excited to connect and create together!
 
 [Linkedin](https://www.linkedin.com/in/0xfernandodias/) <br/>
 [Github](https://github.com/0xFernandoDias) <br/>
